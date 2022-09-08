@@ -6,8 +6,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petryckslater&show_icons=true&locale=en&layout=compact" alt="petryckslater" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petryckslater&show_icons=true&locale=en" alt="petryckslater" /></p>
-</br> </br> 
-<p><img align="cente r" src="https://github-readme-streak-stats.herokuapp.com/?user=petryckslater&" alt="petryckslater" /></p> </br>
+
+<p><img align="cente r" src="https://github-readme-streak-stats.herokuapp.com/?user=petryckslater&" alt="petryckslater" /></p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
