@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on TakeOver [MTLTOI](https://github.com/PetryckSlater/MTLTOI)
 
-- 🌱 I’m currently learning Vagrant|Docker|C# **Vagrant Docker**
+- 🌱 I’m currently learning Vagrant|Docker|C# |**Vagrant|Docker**
 
 - 👯 I’m looking to collaborate in new projects [TalesOfImmortalsPTBR](https://github.com/IzanagiK/TalesOfImmortalsPTBR)
 
