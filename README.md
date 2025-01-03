@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate in new projects [TalesOfImmortalsPTBR](https://github.com/IzanagiK/TalesOfImmortalsPTBR)
 
-- 📫 How to reach me Discord @sadchefe **slaterpetryck29@gmail.com**
+- 📫 How to reach me Discord @sadchefe 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
